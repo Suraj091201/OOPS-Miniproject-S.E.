@@ -1,6 +1,3 @@
-//# OOPS-Miniproject-S.E.
-//This is basically the codes used by me while making our mini-project on OOPS in C++ using graphics library having project name as "Land Sea Breeze in Day & and Night".  The output of it has certain keys mentioned and after pressing those keys an visual effect is seen.
-
 
 
 #include <stdio.h>
